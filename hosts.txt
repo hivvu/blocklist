@@ -1,0 +1,31 @@
+# Title: Deloitte/hosts
+#
+# This hosts file is a collection of hosts used by Deloitte
+#
+# Date: 11 October 2023 
+# Number of unique domains: x
+#
+# Fetch the latest version of this file: xx
+#
+# ===============================================================
+
+0.0.0.0 achecker-deloitte-ce-wps.goskope.com
+0.0.0.0 https://ukjplsprd.deloitte.com/pt
+0.0.0.0 addon-deloitte-ce-wps.goskope.com
+0.0.0.0 _ldap._tcp.atrema.deloitte.com
+0.0.0.0 _ldap._tcp.ca.deloitte.com
+0.0.0.0 deloitte.da.sendwordnow.eu
+0.0.0.0 _kerberos._http.atrema.deloitte.com
+0.0.0.0 ukjplsprd.deloitte.com
+0.0.0.0 sfm.deloitte.com
+0.0.0.0 _ldap._tcp.atrame.deloitte.com
+0.0.0.0 _ldap._tcp.atrapa.deloitte.com
+0.0.0.0 _ldap._tcp.fr.deloitte.com
+0.0.0.0 _ldap._tcp.es.deloitte.com
+0.0.0.0 _ldap._tcp.dk.deloitte.com
+0.0.0.0 _ldap._tcp.lu.deloitte.com
+0.0.0.0 _ldap._tcp.nl.deloitte.com
+0.0.0.0 _ldap._tcp.mx.deloitte.com
+0.0.0.0 _ldap._tcp.pt-lisbon._sites.dc._msdcs.atrame.deloitte.com
+0.0.0.0 _ldap._tcp.pt-lisbon._sites.dc._msdcs.bm.deloitte.com
+0.0.0.0 _ldap._tcp.pt-lisbon._sites.dc._msdcs.fr.deloitte.com
